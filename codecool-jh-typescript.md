@@ -13,7 +13,7 @@
 9. [TypeScript with React](#typescript-with-react)
 10. [Q&A](#typescript-workbook-qa)
 
----
+--- 
 
 ## Basic Types
 
